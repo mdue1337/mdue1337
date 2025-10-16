@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Martin Due 👋
 
-<!--
-**mdue1337/mdue1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 University Student | Computer Science | ASP.NET & Full-Stack Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+C# | Java | ASP.NET MVC | SQL | JavaScript | Python
+
+---
+
+## 📌 Featured Projects
+- **[BilbasenV2](https://github.com/mdue1337/BilbasenV2)** – Vehicle marketplace web app with full CRUD and user authentication.
+- **[BudgetBoss](https://github.com/mdue1337/BudgetBoss)** – Personal finance management app using Godot Engine.
+- **[SchoolAssignments](https://github.com/mdue1337/SchoolAssignments)** – Collection of university programming assignments showcasing algorithms & OOP.
+- **[University-General-Github](https://github.com/mdue1337/University-General-Github)** – Semester-wise academic projects repository.
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/martindue/)
